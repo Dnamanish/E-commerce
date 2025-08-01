@@ -1,13 +1,14 @@
 import Navbar from './Components/Navbar'
 import Hero from './Components/Hero'
 import Home from './Components/Home'
+import Footer from './Components/Footer'
+
+
 function App() {
 
   return (
     <>
-    <Navbar></Navbar> 
-    <Hero></Hero>  
-    <Home></Home> 
+
     </>
   )
 }
